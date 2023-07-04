@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @niladri60
 - 👀 I’m interested in coding and problem solving.
 - 🌱 I’m currently learning Web Developement, Application Developement in Flutter.
+  <img align="right"  height="195px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4783c60ygkm1x8moq28rg8bjpnufhrtexx4x1z95kg&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 💞️ I’m looking to collaborate on different group projects specially with Aurdino and Raspberry PI.
-- 📫 How to reach me 
+- 📫 How to reach me
 - Email: niladri.nandy2names@gmail.com
 - Linkedin: https://www.linkedin.com/in/niladri-nandy-241848254/
 
