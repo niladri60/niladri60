@@ -1,6 +1,6 @@
 # 💫 About Me:
   <img align="right"  height="195px" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4783c60ygkm1x8moq28rg8bjpnufhrtexx4x1z95kg&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-🔭 I’m currently working on Flutter & Web Development Projects <br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with Web Frameworks & IOT Projects<br>🌱 I’m currently learning React<br>💬 Ask me about Web Frameworks & Raspberry Pi 
+🔭 I’m currently working on Flutter & Web Development Projects <br>👯 I’m looking to collaborate on React Projects <br>🤝 I’m looking for help with Web Frameworks & IOT Projects<br>🌱 I’m currently learning React Frameworks<br>💬 Ask me about Web Frameworks & Raspberry Pi 
 
 
 ## 🌐 Socials:
